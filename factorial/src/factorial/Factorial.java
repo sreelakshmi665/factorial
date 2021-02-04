@@ -13,6 +13,6 @@ public class Factorial {
 		{
 			fact=fact*i;
 		}
-		System.out.println("Factorial of "+n+" is: "+fact);
+		System.out.println("Factorial of a given number "+n+" is: "+fact);
 }
 }
